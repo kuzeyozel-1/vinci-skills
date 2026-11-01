@@ -1,0 +1,12 @@
+{
+  "currency": "USD",
+  "items": [
+    { "id": "exterior_image", "label": "Exterior image", "unit": "per image", "sources": [
+      { "name": "Example Vendor A", "url": "https://example.com/a/pricing", "date": "accessed 1 Nov 2026", "price": 250, "note": "includes 2 revisions" },
+      { "name": "Example Vendor B", "url": "https://example.org/b/rates", "date": "accessed 1 Nov 2026", "price": 400 },
+      { "name": "Example Vendor C", "url": "https://example.net/c", "date": "accessed 1 Nov 2026", "price": 320 } ] },
+    { "id": "walkthrough", "label": "Walkthrough video", "unit": "per 10 s", "sources": [
+      { "name": "Example Vendor A", "url": "https://example.com/a/pricing", "date": "accessed 1 Nov 2026", "price": 900 },
+      { "name": "Example Vendor C", "url": "https://example.net/c", "date": "accessed 1 Nov 2026", "price": 3500 } ] }
+  ]
+}

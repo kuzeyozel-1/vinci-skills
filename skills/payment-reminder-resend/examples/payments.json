@@ -1,0 +1,5 @@
+[
+  { "id": "hosting", "name": "Hosting", "amount": "20 USD", "repeat": "monthly", "day": 21, "paidPeriods": [], "url": "https://billing.example.com", "note": "card ending 0000", "active": true },
+  { "id": "workspace", "name": "Email workspace", "repeat": "monthly", "day": 6, "paidPeriods": ["2026-10"], "active": true },
+  { "id": "domain", "name": "Domain renewal", "repeat": "once", "dueDate": "2026-11-23", "paid": false }
+]

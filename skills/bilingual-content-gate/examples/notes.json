@@ -1,0 +1,4 @@
+{ "notes": [
+  { "file": "tr.html", "locale": "tr", "slug": "ornek-yazi", "title": "Küçük işletmeler için web sitesi kontrol listesi", "meta": "Yeni bir web sitesi yaptırmadan önce bakılacak sekiz maddeyi, örnekleriyle ve sık yapılan hatalarla birlikte kısa bir kontrol listesinde topladık.", "keyword": "web sitesi" },
+  { "file": "en.html", "locale": "en", "slug": "sample-post", "title": "A website checklist for small businesses", "meta": "Eight things to check before commissioning a new website, with examples and the most common mistakes, collected in one short checklist.", "keyword": "website" }
+] }

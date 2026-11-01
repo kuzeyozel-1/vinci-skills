@@ -1,0 +1,12 @@
+{
+  "id": "launch-checklist", "lang": "en",
+  "brand": { "name": "ACME", "sub": "STUDIO", "accent": "#F28123", "bg": "#050814", "label": "ACME NOTES", "url": "example.com/blog" },
+  "category": "GUIDE", "title": "Five checks before you launch.",
+  "slides": [
+    { "title": "Know the goal.", "body": "One sentence: what should a visitor do after reading the page? Everything else follows from it." },
+    { "title": "Measure first.", "body": "Install analytics and a form-submit event before launch, not after the first campaign." },
+    { "title": "Test on a phone.", "body": "Most visits are mobile. Open the page on a real phone on mobile data, not on office Wi-Fi." }
+  ],
+  "source": "Example guide", "date": "2 November 2026",
+  "caption": "Five checks to run before you launch a site.", "hashtags": ["web", "marketing"]
+}
